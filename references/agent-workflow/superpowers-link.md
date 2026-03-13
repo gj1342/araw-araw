@@ -1,0 +1,1 @@
+search or scrape: https://github.com/obra/superpowers
